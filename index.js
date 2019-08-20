@@ -38,10 +38,9 @@ a//ert ("test")
 //
 // {
 //     if (userInput === 3)
-//         alert("Hello World");q
+//         alert("Hello World");
 // }
 
 function main (){
-    let userInput =prompt({"enter 1, 2, or 3 until they press 'q' to quit");
-      let userInput2=
+    let userInput =prompt({'enter 1, 2, or 3 until they press
 }
